@@ -1,5 +1,6 @@
 {
   "name": "service-worker-demo-cra",
+  "homepage": "https://andyjakubowski.github.io/worker-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
